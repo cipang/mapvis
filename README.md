@@ -1,7 +1,7 @@
 # mapvis
 This is a repo of map-like visualization forked from the work by Dr Robert Biuk-Aghai et al.
 
-# Steps to run this project (at least worked for me)
+## Steps to run this project (at least worked for me)
 1. Download and install IntelliJ
 2. Install Gradle from https://gradle.org/install/
 3. Checkout the project from Github
@@ -14,7 +14,7 @@ This is a repo of map-like visualization forked from the work by Dr Robert Biuk-
 6. Build the project
 7. Run App.java
 
-# References
+## References
 Please cite the following work if you are using this implementation:
 
 1. Patrick Cheong-Iao Pang, Robert P. Biuk-Aghai, Muye Yang and Bin Pang. 2017. **Creating Realistic Map-like Visualisations: Results from User Studies**. *Journal of Visual Languages & Computing*, 43, pp. 60-70, Elsevier. doi:10.1016/j.jvlc.2017.09.002
